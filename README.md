@@ -38,6 +38,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 ## [Portfolio Website Click Here =>💁‍♂️🚀](https://portfolio-website-vinesh.netlify.app/)
 
 ## Screenshot:
-![image](images/Capture d'écran 2026-02-24 182207.png)
+![image](https://github.com/VineshAXL/Portfolio-Website/blob/f308f078073279d721902de19756d8f80fd1f38d/images/Capture%20d'%C3%A9cran%202026-02-24%20182207.png)
 
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[VINESHKUMAR](https://github.com/VineshAXL)` ! Happy coding!**
