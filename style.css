@@ -140,6 +140,10 @@ header {
   cursor: pointer;
   transition: 0.4s;
 }
+.btn-home2{
+   text-decoration: none;
+    color: #000000;
+}
 
 .btn-home2:hover{
     background-color: #750000;
@@ -259,6 +263,15 @@ hr {
   cursor: pointer;                         
 }
 
+
+    .skills__item{
+    margin-bottom: 0.5rem;
+     list-style: none;
+  }
+  .skills__list ul li{
+    list-style :none;
+  }
+  
 
 .project{
     margin: 160px 200px;
@@ -502,6 +515,7 @@ hr {
 }
 
 .contact-details {
+  align-items: center;
   display: flex;
   flex-direction: column;
   gap: 15px;
@@ -522,6 +536,8 @@ hr {
 }
 
 .social-links {
+  
+  justify-content: center;
   display: flex;
   gap: 15px;
 }
