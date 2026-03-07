@@ -59,7 +59,9 @@ header {
 .ul-list li.active i {
   color: white;
 }
-
+html,body{ 
+scroll-behavior:smooth;
+}
 /* fine header  */
 
 .home {
