@@ -41,3 +41,20 @@ Welcome to my portfolio website! This repository contains the source code for my
 ![image](https://github.com/VineshAXL/Portfolio-Website/blob/f308f078073279d721902de19756d8f80fd1f38d/images/Capture%20d'%C3%A9cran%202026-02-24%20182207.png)
 
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[VINESHKUMAR](https://github.com/VineshAXL)` ! Happy coding!**
+
+
+## 📬 Contact
+
+- 📧 Email: csvinesh6@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vinesh-winslet/  
+- 🐙 GitHub: https://github.com/VineshAXL  
+
+---
+
+🙌 Author
+
+Vinesh Kumar
+Frontend Developer | React Developer
+
+⭐ If you like this project, give it a star!
+---
