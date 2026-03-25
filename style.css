@@ -718,6 +718,10 @@ body {
 
 /* Phone layout */
 @media (max-width: 768px) {
+  .home .home_img{
+    display: none ;
+  }
+
   header {
     display: none;
   }
@@ -736,7 +740,8 @@ body {
     gap: 20px;
   }
 
-  .home img, .about img {
+  /* .home img, */
+  .about img { 
     width: 100%;
     max-width: 100%;
     height: auto;
